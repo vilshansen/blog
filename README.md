@@ -9,6 +9,11 @@ test...
 
 Have a look at this:
 
-+--------+
 | hello  |
-+--------+
+| --------|
+| one line |
+| two lines |
+
+
+
+
