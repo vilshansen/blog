@@ -1,19 +1,15 @@
-# Blogging used to be so easy
-Before hugo and Jekyll came along with their static HTML thingy.
+# What I Use
 
-test...
+On  this page you'll find a list of all the software programs and packages I use in my daily work routine. The list will be updated regularly with new and useful software, and occasionally I'll also remove software that I no longer use regularly. The idea is that I can come back here whenever I do a clean install of a computer and quickly install all the software I need.
 
-1-2-3
+## Password Manager
 
-# Tables
+My password manager of choice is [1Password](https://1password.com).
 
-Have a look at this:
-
-| hello  |
-| --------|
-| one line |
-| two lines |
-
-
-
+- Diceware kodesætninger på dansk
+- Sådan ordner du let rodet i din digitale billedsamling
+- How To: Export Your Passwords From Chrome
+- How To: Develop Minecraft Plugin for Spigot Server
+- Google Advanced Protection Program
+- Billeder af Søhøjlandet
 
