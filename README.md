@@ -4,7 +4,7 @@ On  this page you'll find a list of all the software programs and packages I use
 
 ## Password Manager
 
-My password manager of choice is [1Password](https://1password.com).
+My password manager of choice is [1Password](https://1password.com). There are other viable options out there, and I've tried a few, but in the end my choice fell on 1Password, for reasons too elaborate to list here. All I can do is off you a 'trust me, bro'. Take it or leave it, see if I care.
 
 - Diceware kodesætninger på dansk
 - Sådan ordner du let rodet i din digitale billedsamling
