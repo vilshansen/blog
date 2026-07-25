@@ -19,7 +19,7 @@ Install these extensions:
 
 - 1Password
 - uBlock Origin Lite
-- Hush Nag Blocker (iPhone, blokerer cookie-bannere på Safari)
+- Hush Nag Blocker (iPhone, blocks cookie banners in Safari)
 
 Block those annoying cookie banners in Chrome on desktop by going into Settings for the uBlock Origin Lite extension and do the following:
 
